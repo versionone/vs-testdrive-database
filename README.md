@@ -150,12 +150,9 @@ Review output in your log directory for errors.
 ```shell
 source /usr/local/bin/oraenv
 ```
-
 ### 3.2. Run the schema removal script
 
 ```shell
 sqlplus system/systempw@connect_string
 @drop_sch.sql
 ```
-
-When prompted, enter the SYSTEM password, a log file name, and connect string.
