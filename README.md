@@ -157,5 +157,3 @@ source /usr/local/bin/oraenv
 sqlplus system/systempw@connect_string
 @drop_sch.sql
 ```
-
-When prompted, enter the SYSTEM password, a log file name, and connect string.
