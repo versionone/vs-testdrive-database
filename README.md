@@ -150,7 +150,6 @@ Review output in your log directory for errors.
 ```shell
 source /usr/local/bin/oraenv
 ```
-
 ### 3.2. Run the schema removal script
 
 ```shell
