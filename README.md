@@ -38,8 +38,6 @@ The schemas are:
 - SH: *Sales History*
 - BI: *Business Intelligence*
 
-*Due to widespread dependence on these scripts in their current form,
-no pull requests for changes can be accepted.*
 
 ## 2. Installing the Samples
 
