@@ -3,7 +3,6 @@ Rem $Header: rdbms/demo/schema/mksample.sql.sbs /main/12 2015/03/19 10:23:26 smt
 Rem
 Rem mksample.sql
 Rem
-Rem Copyright (c) 2001, 2015, Oracle and/or its affiliates.  All rights reserved. 
 Rem 
 Rem Permission is hereby granted, free of charge, to any person obtaining
 Rem a copy of this software and associated documentation files (the
@@ -186,4 +185,3 @@ SPOOL OFF
 DEFINE veri_spool = &&logfile_dir.mkverify_&vrs..log
 
 @__SUB__CWD__/mkverify &&password_system &veri_spool &&connect_string
-
