@@ -3,7 +3,6 @@ Rem $Header: mk_dir.sql.sbs 15-aug-2006.07:55:56 dkapoor Exp $
 Rem
 Rem mk_dir.sql
 Rem
-Rem Copyright (c) 2001, 2015, Oracle. All rights reserved.  
 Rem 
 Rem Permission is hereby granted, free of charge, to any person obtaining
 Rem a copy of this software and associated documentation files (the
