@@ -3,8 +3,7 @@ Rem $Header: rdbms/demo/schema/mkunplug.sql /main/18 2012/08/08 17:51:26 celsber
 Rem
 Rem mkunplug.sql
 Rem
-Rem Copyright (c) 2001, 2015, Oracle and/or its affiliates.  All rights reserved. 
-Rem 
+ 
 Rem Permission is hereby granted, free of charge, to any person obtaining
 Rem a copy of this software and associated documentation files (the
 Rem "Software"), to deal in the Software without restriction, including
@@ -182,4 +181,3 @@ PROMPT
 PROMPT Please copy both, the tablespace backup and export file, to the target database location 
 
 EXIT
-
