@@ -11,10 +11,7 @@ Rem without limitation the rights to use, copy, modify, merge, publish,
 Rem distribute, sublicense, and/or sell copies of the Software, and to
 Rem permit persons to whom the Software is furnished to do so, subject to
 Rem the following conditions:
-Rem 
-Rem The above copyright notice and this permission notice shall be
-Rem included in all copies or substantial portions of the Software.
-Rem 
+
 Rem THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 Rem EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 Rem MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
