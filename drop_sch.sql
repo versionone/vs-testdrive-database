@@ -3,7 +3,6 @@ Rem $Header: rdbms/demo/schema/drop_sch.sql /main/2 2015/03/19 10:23:26 smtaylor
 Rem
 Rem drop_sch.sql
 Rem
-Rem Copyright (c) 2009, 2015 Oracle and/or its affiliates.All rights reserved. 
 Rem 
 Rem Permission is hereby granted, free of charge, to any person obtaining
 Rem a copy of this software and associated documentation files (the
