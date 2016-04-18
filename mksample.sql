@@ -32,8 +32,7 @@ Rem      to the Oracle10i Sample Schemas.
 Rem      If you are unsure about the prerequisites for the Sample Schemas,
 Rem      please use the Database Configuration Assistant DBCA to
 Rem      configure the Sample Schemas.
-Rem
-Rem    NOTES
+
 Rem      - OUI instantiates this script during install and saves it
 Rem        as mksample.sql. The instantiated scripts matches
 Rem        the directory structure on your system
