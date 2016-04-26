@@ -141,7 +141,6 @@ PROMPT Sample Schemas are being plugged in  ...
 PROMPT
 DEFINE vrs = v3
 
-SPOOL &log_path.mkplug_&vrs._@.log 
 
 --
 -- Running the instantiated mk_dir.sql, thus connecting
